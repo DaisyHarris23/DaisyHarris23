@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently studying statistics, focusing this semester on Data Analytics and Bayesian Statistics.
+# My name is Daisy Harris. 
+# I'm currently studying statistics, focusing this semester on Data Analytics and Bayesian Statistics.
+# I'm hoping to go to grad school next fall.
